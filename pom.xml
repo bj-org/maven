@@ -6,10 +6,8 @@
 	<artifactId>maven</artifactId>
 	 <packaging>pom</packaging>
 	<version>1.0</version>
-	<name>Maven Libraries & Plugins</name>
-	<description>Maven Libraries & Plugins</description>
-
-    <packaging>pom</packaging>
+	<name>Maven Libraries and Plugins</name>
+	<description>Maven Libraries and Plugins</description>
 
     <modules>
         <module>enforcer-rules</module>
